@@ -1,0 +1,10 @@
+# PHP
+phpdoc_tool.phar
+dl.php
+run_phpdoc.php
+download_phpdoc.php
+.phpdoc/
+
+# OS
+.DS_Store
+Thumbs.db
